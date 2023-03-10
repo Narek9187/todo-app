@@ -1,5 +1,5 @@
 import "./search.css";
-import ItemStatusFilter from "./ItemStatusFilter";
+import ItemStatusFilter from "../ItemStatusFilter";
 
 const Search = () => {
   return (
